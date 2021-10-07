@@ -1,0 +1,44 @@
+
+h1{
+color:  #ffffff;
+text-align:
+center;
+font-family: "Lato", sans-serif;
+}
+
+body {
+  background-color: #404040;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+a{
+color:  #d1c7c7;
+text-decoration: none;
+font-family: "Lato", sans-serif;
+}
+
+p{
+color:  #ffffff;
+text-align:
+center;
+font-family: "Lato", sans-serif;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Lato", sans-serif;
+}

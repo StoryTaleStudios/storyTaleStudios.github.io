@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 google.com, pub-9583602869103548, DIRECT, f08c47fec0942fa0
 
 unity.com, 3595481, DIRECT, 96cabb5fbdde37a7
@@ -105,3 +106,6 @@ inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 telaria.com, rwd19-3595481, RESELLER, 1a4e959a1b50034a
 
 tremorhub.com, rwd19-3595481, RESELLER, 1a4e959a1b50034a
+=======
+google.com, pub-8629680220820060, DIRECT, f08c47fec0942fa0
+>>>>>>> 1979efce17226321ba8e0db05d4509232a58acdc

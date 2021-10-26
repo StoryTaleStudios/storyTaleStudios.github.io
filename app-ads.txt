@@ -95,6 +95,8 @@ indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 
 bidmachine.io, 113, RESELLER
 
+exchange.admazing.co, AM3, RESELLER
+
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
